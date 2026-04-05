@@ -53,3 +53,17 @@ ELSE:
 
 Even basic conditionals are core backend logic.
 Every API endpoint relies on decision-making like this.
+
+## 2026-04-05
+
+### Completed
+- Python intro content done
+- First CLI program built and tested locally
+
+### Key Takeaways
+- Indentation defines structure
+- Conditionals control logic
+- Validation is required before processing
+
+### Reflection
+Translated pseudocode into working code.

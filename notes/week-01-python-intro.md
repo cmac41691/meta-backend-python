@@ -67,3 +67,16 @@ Every API endpoint relies on decision-making like this.
 
 ### Reflection
 Translated pseudocode into working code.
+
+
+### 2026-04-06
+
+### Variables
+- Store data in memory
+- Used to hold user input
+
+### Data Types
+- str → text (default from input)
+- int → whole numbers
+- float → decimal numbers
+- bool → true/false 

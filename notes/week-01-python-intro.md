@@ -80,3 +80,12 @@ Translated pseudocode into working code.
 - int → whole numbers
 - float → decimal numbers
 - bool → true/false 
+
+## Notes 2026-04-07 
+### Type Casting
+- Converts one data type to another
+- Required because input() returns string
+
+### Input / Output
+- input() → receives data
+- print() → returns result

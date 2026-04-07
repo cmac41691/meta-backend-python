@@ -24,4 +24,22 @@ Beginning with fundamentals but framing everything as backend flow.
 - Data types affect how data is processed
 
 ### Reflection
-Focused on understanding data flow and how backend systems store and process input.  
+Focused on understanding data flow and how backend systems store and process input.
+
+
+
+## 2026-04-07
+
+### Completed
+- Type casting input assignment
+- Converted input() to int and float
+- Implemented boolean logic from user input
+- Built bill calculator with formatted output
+
+### Key Takeaways
+- input() always returns string
+- Must cast before calculations
+- Float formatting is important for real-world data (money)
+
+### Reflection
+Focused on handling user input correctly and ensuring data is properly converted before processing.

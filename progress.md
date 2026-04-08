@@ -43,3 +43,22 @@ Focused on understanding data flow and how backend systems store and process inp
 
 ### Reflection
 Focused on handling user input correctly and ensuring data is properly converted before processing.
+
+
+
+## 2026-04-08
+
+### Completed
+- Knowledge Check – Welcome to Python Programming (80%)
+- Reviewed math and logical operators
+- Began control flow and conditionals module
+- Built age classifier mini-project using if/elif/else
+
+### Key Takeaways
+- Conditions evaluate to True or False
+- Control flow determines program behavior
+- Comparison operators (>, <, ==, etc.) drive decisions
+- Input must be converted before being used in logic
+
+### Reflection
+Started understanding how programs make decisions based on user input. Focused on connecting input → processing → output with conditional logic. Beginning to see how backend systems validate and route data.

@@ -62,3 +62,28 @@ Focused on handling user input correctly and ensuring data is properly converted
 
 ### Reflection
 Started understanding how programs make decisions based on user input. Focused on connecting input → processing → output with conditional logic. Beginning to see how backend systems validate and route data.
+
+
+
+## 2026-04-09
+
+### Completed
+- Math and logical operators
+- Control flow (if / elif / else)
+- Conditional statements
+- Introduced loops (while)
+
+### Key Takeaways
+- Control flow determines program execution paths
+- Logical operators combine conditions (and, or, not)
+- while loops allow repeated validation
+- Input should be validated before conversion
+
+### Project Work
+- Built a validated age classifier
+- Implemented loop-based input validation
+- Applied conditional branching for classification
+
+### Notes
+- Learned to avoid redundant variables
+- Practiced clean input → validate → convert → use flow

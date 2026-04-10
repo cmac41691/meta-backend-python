@@ -33,4 +33,29 @@ else:
 - Input validation
 - Decision-making systems
 
+## Match Statement
+- Used for comparing a single value against multiple cases
+- Cleaner than multiple elif statements in some scenarios
+
+## Looping Constructs
+
+### while loop
+- Runs while condition is True
+- Used for validation and repeated input
+
+### for loop
+- Iterates over a sequence (range, list, etc.)
+
+## Practical Looping
+- Counting iterations
+- Processing multiple values
+- Menu systems
+- Repeating tasks until completion
+
+## Backend Thinking
+- Request retries
+- Input validation loops
+- Processing collections of data
+- Task automation
+
 ## Reflection

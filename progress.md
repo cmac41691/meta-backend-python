@@ -87,3 +87,28 @@ Started understanding how programs make decisions based on user input. Focused o
 ### Notes
 - Learned to avoid redundant variables
 - Practiced clean input → validate → convert → use flow
+
+## 2026-04-10
+
+### Completed
+- Match statement
+- Looping constructs
+- Practical loop examples
+- Practicing control flow and loops
+
+### Key Takeaways
+- match statement provides cleaner branching for fixed options
+- while loops enable continuous program flow
+- break exits a loop, continue restarts the loop iteration
+- loops + conditionals create interactive systems
+
+### Project Work
+- Built a menu-driven CLI system
+- Integrated age classifier into menu flow
+- Implemented routing using match-case
+- Combined loops, conditionals, and validation into one system
+
+### Notes
+- Learned how to structure programs with multiple execution paths
+- Understood that variables must be created before being used
+- Practiced integrating existing logic into a larger system

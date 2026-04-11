@@ -112,3 +112,53 @@ Started understanding how programs make decisions based on user input. Focused o
 - Learned how to structure programs with multiple execution paths
 - Understood that variables must be created before being used
 - Practiced integrating existing logic into a larger system
+
+## 2026-04-11
+
+### Planned
+- Python loops (dialogue)
+- Nested loops and algorithmic complexity
+- Control flow + loops problem exercise
+- Review solution
+- Self-review assignment
+- Module summary 
+- Module quiz
+
+### Focus
+- Understand nested loops (loop inside loop)
+- Learn how loops affect performance (basic complexity thinking)
+- Apply loops + conditionals together to solve problems
+- Reinforce problem-solving workflow (pseudocode → code → test)
+
+### Goal
+- Complete Module 1
+- Strengthen confidence with loops and control flow
+
+
+### Completed
+- Python loops (dialogue)
+- Nested loops and algorithmic complexity
+- Control flow + loops problem exercise
+- Solution review
+- Self-review assignment (100%)
+- Module summary
+- Module quiz (90%)
+
+### Key Takeaways
+- Loops control repeated execution
+- Nested loops introduce layered processing
+- break stops execution early
+- enumerate provides index + value
+- Control flow determines how programs behave
+
+### Project Work
+- Built loop-based number processing system
+- Implemented enumerate for index tracking
+- Applied conditional logic (>45 classification)
+- Added break condition to stop at target value (36)
+- Counted iterations before termination
+
+### Notes
+- Execution flow matters more than syntax
+- Indentation defines logic structure in Python
+- break affects total iterations and output

@@ -162,3 +162,19 @@ Started understanding how programs make decisions based on user input. Focused o
 - Execution flow matters more than syntax
 - Indentation defines logic structure in Python
 - break affects total iterations and output
+
+## 2026-04-12
+
+### Completed
+- Built user list manager CLI using functions and lists
+- Implemented validation (empty input, duplicate check)
+- Practiced control flow and function structure
+
+### Key Takeaways
+- Functions = reusable backend logic
+- Lists simulate stored data
+- Validation is critical before storing data
+
+### Notes
+- This felt like building a small backend system without HTTP
+- First time separating logic into functions in a meaningful way

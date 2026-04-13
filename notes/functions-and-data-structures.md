@@ -120,3 +120,19 @@ Unordered collection of **unique items**
 - Functions help reduce repetition  
 - Scope prevents bugs from shared variables  
 - Data structures impact performance and clarity  
+
+# 2026-04-13 Notes
+## Tuples
+- Immutable (cannot change)
+- Used for fixed data
+
+## Sets
+- Unique values only
+- No duplicates
+
+## Dictionaries
+- Key → Value pairs
+- Used for structured data
+
+## kwargs
+- Flexible function arguments

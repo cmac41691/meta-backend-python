@@ -10,25 +10,40 @@
 # version 1.2
 
 # empty list
-users = []
+users = [
+    {"username": "coady", "role": "user"},
+    {"username": "iain", "role": "user"}
+]
 
 # add user function that appends
 def add_user():
-    user = input("Enter in a username: ").strip()
+    username = input("Enter in a username: ").strip()
 
-    if user == "":
+    if username == "":
         print("Username must have characters")
         return
 
-    if user in users:
-        print("That username already exist")
-        return
+    for user in users:
+        if user["username"] == username:
+            print("That name has been taken, pick another one")
+            return
 
-    users.append(user) 
+    new_user = {
+        "username": username,
+        "role": "user"
+    }
+
+    users.append(new_user)
+    print("User has been added successfully")
 
 # display the users
 def show_users():
-    print(users)
+    if not users:
+        print("No users found")
+        return
+
+    for user in users:
+        print(user["username"])
 
 while True:
     # actions for the user to do

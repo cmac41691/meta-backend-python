@@ -47,7 +47,7 @@ def show_users():
 
 while True:
     # actions for the user to do
-    action = input("add / show / exit: ").strip()
+    action = input("add / show / exit: ").strip().lower()
 
     if action == "add":
         add_user()

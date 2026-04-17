@@ -178,3 +178,43 @@ Started understanding how programs make decisions based on user input. Focused o
 ### Notes
 - This felt like building a small backend system without HTTP
 - First time separating logic into functions in a meaningful way
+
+## 2026-04-15
+
+### Completed
+- Completed "Functions, loops and data structures" programming assignment
+- Achieved 100% on first attempt
+- Reinforced use of functions, loops, and data structures together
+
+### Key Takeaways
+- Functions organize logic into reusable units
+- Loops control flow and repeated operations
+- Data structures (lists, dicts, sets) define how data is stored and accessed
+- Combining all three creates real backend-style logic
+
+### Notes
+- Assignment felt easier due to prior practice with CLI user manager
+- Understanding improved by building before the assignment
+
+## 2026-04-17
+
+### Completed
+- Programming Assignment: Functions, Loops, and Data Structures
+- Built CLI ordering system with:
+  - subtotal calculation
+  - tax calculation
+  - order summary function
+
+### Result
+- Passed: 85%
+
+### Key Takeaways
+- Functions should be self-contained and return values
+- Proper indentation is critical in Python
+- Lists of dictionaries are powerful for structured data
+- Breaking problems into smaller functions makes logic easier
+
+### Notes
+- Debugged issues with indentation and variable scope
+- Reinforced backend thinking: input → processing → output
+- Practiced combining multiple functions into one workflow

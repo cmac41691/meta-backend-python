@@ -218,3 +218,56 @@ Started understanding how programs make decisions based on user input. Focused o
 - Debugged issues with indentation and variable scope
 - Reinforced backend thinking: input → processing → output
 - Practiced combining multiple functions into one workflow
+
+## 2026-04-18
+
+### Completed
+
+* Knowledge Check: Functions and Data Structures (Score: 80%)
+* What are exceptions
+* Exception handling
+* Exercise: Exceptions in Python
+* Exceptions in Python – solution
+* Exceptions in Python (Practice Assignment – 100%)
+* File handling in Python (intro)
+
+---
+
+### Key Takeaways
+
+* Exceptions prevent programs from crashing
+* `try/except` allows safe handling of user input and runtime errors
+* Different exception types handle different failure cases
+* File handling introduces persistent data (read/write operations)
+
+---
+
+### Backend Thinking
+
+Client → sends input
+Server → processes input
+If failure occurs → handle with exception
+System continues running instead of crashing
+
+File flow:
+Client → request data
+Server → open/read/write file
+Response → return processed data
+
+---
+
+### Notes
+
+* Reinforced importance of handling invalid user input
+* Practiced using try/except blocks in real scenarios
+* Learned how backend systems stay stable under failure
+* Introduced to file operations (foundation for data persistence)
+
+---
+
+### Improvements (Next Step)
+
+* Practice file reading and writing in a small CLI program
+* Combine exception handling with file operations
+* Prepare for upcoming assignment involving data storage
+    

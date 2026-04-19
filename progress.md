@@ -270,4 +270,19 @@ Response → return processed data
 * Practice file reading and writing in a small CLI program
 * Combine exception handling with file operations
 * Prepare for upcoming assignment involving data storage
-    
+
+## 2026-04-19
+
+### Completed
+- Meta Backend Python Assignment (File Operations)
+- Implemented file reading, writing, reversing, and filtering
+- Passed all grader tests (100%)
+
+### Key Takeaways
+- Preserving raw data matters more than formatting in backend systems
+- Newline characters (\n) can affect system validation
+- Edge cases (empty input, indexing) must always be handled
+
+### Notes
+- Avoid using .strip() when exact output format is required
+- file.readlines() is useful for preserving line structure    

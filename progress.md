@@ -285,4 +285,24 @@ Response → return processed data
 
 ### Notes
 - Avoid using .strip() when exact output format is required
-- file.readlines() is useful for preserving line structure    
+- file.readlines() is useful for preserving line structure  
+
+## 2026-04-20
+
+### Completed
+- Meta Backend Python Assignment (File Operations)
+- Implemented file reading, writing, reversing, and filtering
+- Passed all grader tests (100%)
+
+### Key Takeaways
+- Backend systems often require exact data preservation over formatting
+- Newline characters (\n) can affect system validation
+- Edge cases (empty input, indexing) must always be handled
+
+### Challenges
+- Initially removed newline characters using .strip(), causing grader failures
+- Debugged mismatch between expected vs actual output formatting
+
+### Notes
+- Avoid using .strip() when exact output format is required
+- file.readlines() preserves exact line structure including newline characters

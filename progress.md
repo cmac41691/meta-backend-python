@@ -306,3 +306,20 @@ Response → return processed data
 ### Notes
 - Avoid using .strip() when exact output format is required
 - file.readlines() preserves exact line structure including newline characters
+
+## 2026-04-25
+
+### Completed
+- Coffee procedural programming exercise
+- Implemented full program using functions and control flow
+- Structured project inside exercises/procedural-programming/coffee
+
+### Key Takeaways
+- Function order matters in execution
+- Scope affects variable accessibility (NameError issues)
+- Indentation defines program structure in Python
+- Loops simulate real-world processes (heating, cooling)
+
+### Notes
+- Translated algorithm → working code
+- Debugging was the main learning focus today

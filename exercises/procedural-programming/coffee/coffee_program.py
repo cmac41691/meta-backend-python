@@ -59,15 +59,15 @@ def let_it_cool():
     while True:
         drink_ready = input("Is it ready to drink? ").strip().lower()
 
-        if drink_ready == "yes":
-            print("Coffee is ready to consume")
-            break
-        elif drink_ready == "no":
-            print("Cooling down now")
-            time.sleep(3)
-        else:
-            print("Input yes or no")
-
+        match drink_ready:
+            case "yes":
+                print("Coffee is ready to consume")
+                break
+            case "no":
+                print("Cooling down now")
+                time.sleep(3)
+            case _:
+                print("Please enter 'yes' or 'no'")       
 
 def coffee_is_ready(cup):
     print("Coffee is ready! Enjoy.")

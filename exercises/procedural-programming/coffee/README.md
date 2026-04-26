@@ -16,6 +16,10 @@ This exercise demonstrates how a real-world process (making coffee) can be broke
 - Debugging indentation and scope issues
 - Managing execution flow between steps
 
-## Key Takeaway
+### Key Takeaway
 An algorithm defines the steps.  
-The program executes those steps in a structured way.
+A program executes those steps in a structured and controlled way.
+
+### Improvements
+- Refactored control flow using `match-case`
+- Reinforced loop execution structure (`break` vs loop continuation)

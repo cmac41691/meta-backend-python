@@ -323,3 +323,18 @@ Response → return processed data
 ### Notes
 - Translated algorithm → working code
 - Debugging was the main learning focus today
+
+## 2026-04-29
+
+### Completed
+- Reverse string (loop + slicing)
+- Map (loop + list comprehension)
+- Filter (loop + list comprehension)
+
+### Key Takeaways
+- Functional programming emphasizes transformation over mutation
+- List comprehensions are more concise and Pythonic
+- Same logic can be expressed in multiple paradigms
+
+### Notes
+- Practiced translating pseudocode into both imperative and functional styles

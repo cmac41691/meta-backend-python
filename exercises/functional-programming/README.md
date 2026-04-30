@@ -46,13 +46,69 @@ DISPLAY evens
 
 - Used loops to implement transformation and filtering
 - Practiced building results step-by-step
-- Compared loop-based approach with Pythonic alternatives
+- Compared loop-based approaches with Pythonic alternatives
+
+---
+
+## Examples
+
+### Map (Double Values)
+
+Input:
+[3, 4, 8, 12]
+
+
+Output:
+[6, 8, 16, 24]
+
+
+---
+
+### Filter (Even Numbers)
+
+Input:
+[3, 4, 8, 12]
+
+
+Output:
+[4, 8, 12]
+
 
 ---
 
 ## Key Takeaways
 
-- `map` transforms data
-- `filter` selects data based on conditions
-- list comprehensions provide a cleaner, more Pythonic approach
-- pseudocode helps break down logic before coding
+- `map()` transforms each element in a collection
+- `filter()` selects elements based on a condition
+- List comprehensions provide a cleaner, more Pythonic approach
+- Pseudocode helps break down logic before coding
+
+---
+
+## Comprehension Assignment
+
+### Files
+- `comprehension_assignment.py` → implementation  
+- `comprehension_pseudocode.md` → planning  
+
+### Goals
+- Use `map()` to transform data  
+- Use list comprehension for string formatting  
+- Use dictionary comprehension for key-value mapping  
+
+### Functions
+- `to_mod_list()`  
+- `generate_usernames()`  
+- `map_id_to_initial()`  
+
+### Key Takeaways
+- `map()` applies a function to each element  
+- List comprehensions simplify transformations  
+- Dictionary comprehensions build mappings efficiently  
+
+---
+
+## Overall Insight
+
+The same problems can be solved using both imperative (loops) and functional (map/comprehensions) approaches.  
+Functional approaches tend to be more concise and expressive in Python.

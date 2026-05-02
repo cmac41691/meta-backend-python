@@ -338,3 +338,23 @@ Response → return processed data
 
 ### Notes
 - Practiced translating pseudocode into both imperative and functional styles
+
+## 2026-05-02
+
+### Completed
+- Functional Programming Assignment (Coursera) – 100%
+- Implemented:
+  - to_mod_list (map transformation)
+  - generate_usernames (list comprehension)
+  - map_id_to_initial (dictionary comprehension)
+
+### Key Takeaways
+- map() applies a function across a sequence
+- list comprehensions simplify transformations
+- dictionary comprehensions build key-value mappings efficiently
+- same logic can be expressed in loop-based and Pythonic styles
+
+### Notes
+- Built loop-based versions first for understanding
+- Then implemented Pythonic versions for assignment submission
+- Confirmed outputs locally before submission

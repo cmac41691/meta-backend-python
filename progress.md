@@ -358,3 +358,22 @@ Response → return processed data
 - Built loop-based versions first for understanding
 - Then implemented Pythonic versions for assignment submission
 - Confirmed outputs locally before submission
+
+
+## 2026-05-04
+
+### Focus
+- OOP Principles (reading)
+- Python Classes and Instances (video)
+
+### Plan
+- Review OOP notes (object-oriented-programming.md)
+- Write down key concepts in notebook:
+  - class vs object
+  - attributes vs methods
+  - __init__ and self
+- Watch video and connect concepts to code examples
+
+### Goal
+- Understand how classes and objects work conceptually
+- Be comfortable reading basic class syntax 

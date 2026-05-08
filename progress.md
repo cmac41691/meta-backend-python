@@ -377,3 +377,27 @@ Response → return processed data
 ### Goal
 - Understand how classes and objects work conceptually
 - Be comfortable reading basic class syntax 
+
+## 2026-05-08
+
+### Completed
+- Instantiate a custom object
+- Object instantiation self-review
+- Practiced class construction and method calls
+- Explored custom object behavior beyond assignment requirements
+
+### Exercises
+- Created MyFirstClass practice exercise
+- Experimented with:
+  - class variables
+  - method parameters
+  - object creation
+  - constructor behavior
+  - method output formatting
+
+### Key Takeaways
+- Objects are created from classes
+- Methods define object behavior
+- self references the current instance
+- Constructors initialize object state
+- Class variables can be shared across all objects

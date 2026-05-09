@@ -401,3 +401,24 @@ Response → return processed data
 - self references the current instance
 - Constructors initialize object state
 - Class variables can be shared across all objects
+
+## 2026-05-09
+
+### Completed
+- Practiced instance methods
+- Built Payslip class exercise
+- Practiced object state updates
+- Explored parent and child classes
+- Implemented inheritance with HumanResources and Recruiter classes
+- Practiced using super().__init__()
+
+### Exercises
+- instance_method_exploration.py
+- parent_child_exploration.py
+
+### Key Takeaways
+- Child classes inherit parent behavior
+- super() reuses parent constructor logic
+- Instance methods modify object state
+- Objects can share behavior while storing unique data
+- Indentation and scope directly affect class structure 

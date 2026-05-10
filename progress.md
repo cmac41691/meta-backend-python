@@ -421,4 +421,28 @@ Response → return processed data
 - super() reuses parent constructor logic
 - Instance methods modify object state
 - Objects can share behavior while storing unique data
-- Indentation and scope directly affect class structure 
+- Indentation and scope directly affect class structure
+
+## 2026-05-10
+
+### Completed
+- Abstract classes and methods assignment
+- Practiced inheritance and method overriding
+- Implemented abstract base classes using ABC
+- Built Swiss bank withdrawal system
+- Added insufficient funds edge-case handling
+- Created pseudocode planning document
+- Submitted assignment locally and on Coursera
+
+### Key Takeaways
+- Abstract classes define required methods for child classes
+- Child classes override parent behavior
+- Instance variables preserve object state
+- Conditional checks help protect backend logic
+- Pseudocode improves implementation flow
+
+### Git / Repo Work
+- Added bank_assignment.py
+- Added bank_pseudocode.md
+- Cleaned duplicate file naming issue
+- Committed and pushed assignment work

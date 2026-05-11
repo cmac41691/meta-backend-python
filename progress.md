@@ -446,3 +446,15 @@ Response → return processed data
 - Added bank_pseudocode.md
 - Cleaned duplicate file naming issue
 - Committed and pushed assignment work
+
+## 2026-05-11
+
+### Completed
+- Method Resolution Order
+- Working with Methods: Examples
+
+### Key Takeaways
+- Python searches for methods using MRO
+- Child class methods override parent methods
+- super() allows access to parent functionality
+- Instance methods operate on object state through self

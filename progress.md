@@ -464,3 +464,27 @@ Response → return processed data
 - Practiced inheritance and abstract classes
 - Improved understanding of method resolution and object behavior
 - Continued building backend thinking through class-based design
+
+## 2026-05-15
+
+### Completed
+- Began Module 4: Modules and Packages
+- Learned how Python modules expose reusable functionality
+- Practiced importing standard library modules (`sys`, `calendar`)
+- Explored `sys.path` and iterated through system locations
+- Used `calendar.leapdays()` and `calendar.isleap()`
+- Created `modules-packages/` directory structure
+- Added initial Module 4 exercise files
+- Implemented `import_examples.py`
+
+### Key Takeaways
+- Python modules contain reusable functions, attributes, and tools
+- Module functionality is accessed through:
+  - `module.attribute`
+  - `module.function()`
+- Imports help organize and separate reusable logic
+- Backend systems rely heavily on modular architecture and imported functionality
+- Debugging variable consistency and module relationships is important
+
+### Reflection
+Today focused on understanding how Python modules work and how applications access reusable functionality from imported modules. I practiced using `sys` and `calendar` while reinforcing loops, variable storage, and module-function relationships. I also reorganized the repository structure to better reflect Module 4 concepts and backend-oriented organization.

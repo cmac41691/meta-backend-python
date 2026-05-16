@@ -488,3 +488,25 @@ Response → return processed data
 
 ### Reflection
 Today focused on understanding how Python modules work and how applications access reusable functionality from imported modules. I practiced using `sys` and `calendar` while reinforcing loops, variable storage, and module-function relationships. I also reorganized the repository structure to better reflect Module 4 concepts and backend-oriented organization.
+
+## 2026-05-16
+
+### Completed
+- Continued Module 4: Modules and Packages
+- Learned about import statements and aliasing
+- Created examples using:
+  - `import math`
+  - `from math import sqrt as m`
+- Added import examples to `modules-packages/import_examples.py`
+- Began learning namespacing and scope concepts
+- Practiced writing custom scope pseudocode
+
+### Key Takeaways
+- Modules expose reusable functionality
+- Imports can bring in entire modules or specific functions
+- Aliases provide shorter or custom names for imported functionality
+- Namespaces help organize ownership of variables and functions
+- Scope controls where variables can be accessed and modified
+
+### Reflection
+Today focused on understanding how Python organizes and accesses functionality. I practiced imports and aliases and began exploring scope and namespaces through pseudocode. I am starting to think more about where data belongs and how different parts of a program communicate with each other rather than only focusing on syntax.

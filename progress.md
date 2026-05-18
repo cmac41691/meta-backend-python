@@ -510,3 +510,25 @@ Today focused on understanding how Python modules work and how applications acce
 
 ### Reflection
 Today focused on understanding how Python organizes and accesses functionality. I practiced imports and aliases and began exploring scope and namespaces through pseudocode. I am starting to think more about where data belongs and how different parts of a program communicate with each other rather than only focusing on syntax.
+
+## 2026-05-18
+
+### Completed
+- Import and scope assignment
+- Created employee dictionary with function parameters
+- Implemented JSON file output
+- Generated employee.json successfully
+- Tested locally using Git Bash
+
+### Debugging / Fixes
+- Fixed import issues
+- Fixed create_dict() argument mismatch
+- Fixed accidental OVR overwrite mode in VS Code
+- Fixed indentation and main() flow
+- Verified JSON artifact generation
+
+### Key Takeaways
+- Functions with parameters require matching arguments
+- json.dump() writes to files
+- json.dumps() converts dictionaries into JSON strings
+- Testing locally helps catch issues before submission

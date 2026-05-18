@@ -532,3 +532,35 @@ Today focused on understanding how Python organizes and accesses functionality. 
 - json.dump() writes to files
 - json.dumps() converts dictionaries into JSON strings
 - Testing locally helps catch issues before submission
+
+## 2026-05-18
+
+### Completed
+- Finished Module 4 Import and Scope programming assignment
+- Built employee JSON generator project
+- Practiced importing variables and functions from external modules
+- Created employee dictionary using function parameters
+- Converted Python dictionary into JSON format using `json.dumps()`
+- Wrote JSON output to `employee.json`
+- Debugged import issues and function parameter problems
+- Resolved Coursera autograder edge-case failures
+- Submitted assignment successfully
+- Scored 100/100 on Import and Scope assignment
+
+### Challenges
+- Import errors caused by variable naming mismatches
+- Function arguments initially depended on local variables instead of passed parameters
+- Coursera test cases failed despite local code working
+- Needed to adjust implementation for strict autograder expectations
+
+### Key Takeaways
+- Functions should rely on passed arguments rather than hardcoded values
+- Local success does not always guarantee external test success
+- `json.dumps()` converts Python objects into JSON strings
+- `file.write()` writes the JSON string directly into the output file
+- Autograders often test unexpected inputs and edge cases
+- Debugging is frequently about identifying assumptions in code
+
+### Reflection
+Today felt closer to real backend debugging than just completing an exercise.
+The code worked locally, but the testing environment exposed assumptions that I had built into the implementation. I had to progressively refine imports, parameters, typecasting, and file handling until the solution became flexible enough to pass external tests. Working through the failures step-by-step improved my understanding of how modules and function design work together.

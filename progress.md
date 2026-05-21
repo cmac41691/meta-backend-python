@@ -564,3 +564,21 @@ Today focused on understanding how Python organizes and accesses functionality. 
 ### Reflection
 Today felt closer to real backend debugging than just completing an exercise.
 The code worked locally, but the testing environment exposed assumptions that I had built into the implementation. I had to progressively refine imports, parameters, typecasting, and file handling until the solution became flexible enough to pass external tests. Working through the failures step-by-step improved my understanding of how modules and function design work together.
+
+
+## 2026-05-21
+
+### Completed
+- reload() function lesson
+- Module use-cases reading
+- Additional resources
+- Knowledge check
+- Built and tested reload_demo.py locally
+- Created filechanges.py module
+
+### Key Takeaways
+- Learned how importlib.reload() works
+- Practiced dynamic module reloading
+- Improved Python indentation consistency
+- Better understanding of module imports and execution flow
+- Practiced try/except structure with reload logic

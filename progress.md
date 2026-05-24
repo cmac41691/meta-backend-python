@@ -625,3 +625,21 @@ The code worked locally, but the testing environment exposed assumptions that I 
 - pandas structures data like tables/spreadsheets
 - Matplotlib creates graphs and visualizations
 - Practiced reading terminal errors and correcting commands
+
+## 2026-05-24
+
+### Completed
+- Finished Popular Packages, Libraries and Frameworks subsection
+- Learned about:
+  - Big Data and analysis tools
+  - AI and Machine Learning concepts
+  - Python web frameworks
+- Participated in AI vs Machine Learning discussion
+- Completed knowledge check (80%)
+- Reviewed additional resources
+
+### Key Takeaways
+- Packages extend Python with specialized functionality
+- Machine Learning is a method used within AI systems
+- Frameworks provide structure and reduce repetitive code
+- Backend frameworks help organize requests, logic, and responses 

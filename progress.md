@@ -643,3 +643,24 @@ The code worked locally, but the testing environment exposed assumptions that I 
 - Machine Learning is a method used within AI systems
 - Frameworks provide structure and reduce repetitive code
 - Backend frameworks help organize requests, logic, and responses 
+
+## 2026-05-25
+
+### Completed
+- What is testing?
+- Types of testing
+
+### Key Takeaways
+- Testing verifies that code behaves as expected.
+- Testing helps detect bugs before software reaches users.
+- Different testing types serve different purposes:
+  - Unit testing → tests small pieces of code
+  - Integration testing → tests how components work together
+  - System testing → tests the full application
+  - Regression testing → checks if new changes break existing features
+- Testing fits into backend systems by validating logic before deployment.
+
+### Backend Connection
+Client → Request → Server → Logic → Testing → Database → Response
+
+Testing acts as a safety checkpoint before code moves into production. 

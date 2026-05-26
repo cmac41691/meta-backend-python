@@ -664,3 +664,24 @@ The code worked locally, but the testing environment exposed assumptions that I 
 Client → Request → Server → Logic → Testing → Database → Response
 
 Testing acts as a safety checkpoint before code moves into production. 
+
+## 2026-05-26
+
+### Completed
+- Testing quiz
+- Test automation packages
+
+### Key Takeaways
+- Automated testing reduces repetitive manual checking.
+- Testing tools can quickly verify whether code still works after changes.
+- Automation helps developers catch bugs faster and improves software reliability.
+- Testing frameworks are important in backend systems where many components interact together.
+
+### Backend Connection
+Without automation:
+Write code → Run manually → Check output
+
+With automation:
+Write code → Run tests → Automatic pass/fail feedback
+
+Automated testing improves development speed and stability in production systems.  

@@ -684,4 +684,30 @@ Write code → Run manually → Check output
 With automation:
 Write code → Run tests → Automatic pass/fail feedback
 
-Automated testing improves development speed and stability in production systems.  
+Automated testing improves development speed and stability in production systems. 
+
+
+
+## 2026-05-27
+
+### Completed
+- Learned basic PyTest workflow
+- Installed PyTest with pip
+- Created:
+  - addition.py
+  - test_addition.py
+- Wrote automated tests for:
+  - addition
+  - subtraction
+- Ran tests successfully using pytest
+
+### Key Takeaways
+- PyTest automatically discovers files beginning with test_
+- Assertions verify expected behavior automatically
+- Testing helps validate backend logic before deployment
+- Automated testing reduces manual debugging
+
+### Backend Connection
+Client → Request → Logic → Testing → Validation → Deployment
+
+Testing acts as an automated verification layer for backend systems.

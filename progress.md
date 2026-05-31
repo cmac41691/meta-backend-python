@@ -711,3 +711,31 @@ Automated testing improves development speed and stability in production systems
 Client → Request → Logic → Testing → Validation → Deployment
 
 Testing acts as an automated verification layer for backend systems.
+
+## 2026-05-31
+
+### Completed
+- PyTest string validation assignment
+- String length testing
+- String structure testing
+- Fixtures
+- Assertions
+- Reading PyTest error output
+
+### Challenges
+- Confusion between spellcheck.py and test_spellcheck.py
+- Fixture usage errors
+- Assertion failures caused by test data
+- Understanding PyTest collection behavior
+
+### Key Takeaways
+- Test files contain the assertions.
+- Application files contain the implementation.
+- PyTest error messages point directly to failing assertions.
+- Fixing one error often reveals the next issue.
+- Passing tests confirm expected behavior.
+
+### Result
+- Assignment submitted successfully
+- Grade: 100/100
+- Local verification: 2 passed

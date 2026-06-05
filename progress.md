@@ -781,3 +781,8 @@ Testing acts as an automated verification layer for backend systems.
 - Successfully recreated and implemented the course TDD example independently
 - All PyTest tests passing (`2 passed`)
 - Improved understanding of assertions, testing workflows, and debugging practices
+
+### Additional Achievements
+- Completed Module 4: Modules, Packages, Libraries and Tools
+- Scored 87.5% on Module 4 quiz
+- Completed testing subsection and TDD introduction

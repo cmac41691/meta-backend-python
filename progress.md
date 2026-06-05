@@ -739,3 +739,45 @@ Testing acts as an automated verification layer for backend systems.
 - Assignment submitted successfully
 - Grade: 100/100
 - Local verification: 2 passed
+
+
+### 2026-06-05
+
+#### Completed
+
+- Recreated TDD example from video without copying
+- Converted Python example into pseudocode first
+- Built `findstring.py`
+- Built `test_findstring.py`
+- Practiced PyTest assertions
+- Debugged indentation errors
+- Investigated import/module errors
+- Removed unsupported `curses.ascii` import on Windows
+- Tested both passing and failing cases
+- Used `"N7"` to intentionally observe assertion failure behavior
+- Corrected test data and achieved passing results
+- Successfully ran PyTest with all tests passing (`2 passed`)
+
+#### Challenges
+
+- Python indentation and block structure
+- Undefined variable errors (`person`, `names`)
+- Module import compatibility on Windows
+- Understanding why assertions failed with invalid test data
+- Translating pseudocode back into working Python
+
+#### Key Takeaways
+
+- PyTest reports exactly which assertion failed
+- Failing tests help verify expected behavior
+- Indentation is critical in Python functions
+- TDD involves writing behavior checks before trusting code
+- Test data must match the expected behavior of the function
+- Import errors can occur due to operating system differences
+- Debugging is often a process of fixing one issue at a time
+
+#### Result
+
+- Successfully recreated and implemented the course TDD example independently
+- All PyTest tests passing (`2 passed`)
+- Improved understanding of assertions, testing workflows, and debugging practices

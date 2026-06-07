@@ -810,4 +810,4 @@ Testing acts as an automated verification layer for backend systems.
 
 - Successfully completed Meta Programming in Python
 - Ready to begin the next course in the Meta Back-End Developer Professional Certificate
-
+- Built and validated a custom dictionary lookup project using PyTest (5 passing tests) 
